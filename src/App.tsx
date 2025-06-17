@@ -19,7 +19,6 @@ function App() {
       <div className="card">
         <p>
           My first Typescript + React Project
-          Katya opposum, I love you 
         </p>
       </div>
     </>
